@@ -1,4 +1,4 @@
-maejs
+mae.js
 =====
 
 Maps and Events
